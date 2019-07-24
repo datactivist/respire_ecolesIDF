@@ -2,6 +2,9 @@
 
 Ce répertoire contient le script utilisé pour produire la base de données de la pollution aux abords des crèches et écoles d'Île-de-France pour l'association Respire.
 
+## Script
+Le script sera mis à disposition sous peu.
+
 ## Données
 La base de données est mise à disposition en licence Odbl [sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/base-de-donnees-de-la-pollution-aerienne-aux-abords-des-ecoles-et-creches-dile-de-france/).
 
